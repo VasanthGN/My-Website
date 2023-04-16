@@ -1,0 +1,28 @@
+body{
+background-color: #152238;
+}
+.soc{
+    margin-left: 3px;
+    text-decoration: none;
+    font-family:'montserrat',sans-serif;
+    color:#ffff;
+}
+.ins:hover{
+    color:#c13584;
+    transition: .5s;
+}
+.dis:hover{
+    color:#7289da;
+    transition: .5s;
+}
+.git:hover{
+    color:skyblue;
+    transition: .5s;
+    
+}
+.container
+{
+    align-items: center;
+    justify-content: center;
+    margin-left:550px;
+}
